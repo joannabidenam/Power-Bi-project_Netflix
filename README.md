@@ -32,6 +32,8 @@ Dataset Source: Kaggle
 - Duration analysis
 - Genre and Category insights
 
+https://github.com/user-attachments/assets/3e5dc7e1-6de2-4d33-be67-baecd54e1656
+
 ## Insights Highlights
 ###
 - Netflix content is dominated by Movies compared to TV Shows
