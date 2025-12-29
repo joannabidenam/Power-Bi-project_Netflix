@@ -4,13 +4,13 @@
 
 ### Welcome to the GitHub repository for my Data Visualization project using Power BI! In this project, I have utilized Power BI to create compelling visualizations from raw datasets, enabling data-driven insights and informed decision-making. This repository contains the resources and documentation related to the project.
 
-## 📌 Project Overview
+##  Project Overview
 
 ### This project focuses on analyzing Netflix data using Power BI to uncover insightful trends and patterns. The objective was to clean, transform, model, and visualize data to help better understand Netflix’s content distribution across genres, countries, ratings, and time.
 Dataset Source: Kaggle
 🔗 https://lnkd.in/gxKXZRmx
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 ### Performed in Power Query, including:
 1. Column Profiling
 2. Handling Missing / Blank Values
@@ -23,7 +23,7 @@ Dataset Source: Kaggle
 9. Text-Based Analysis
 10. Removing Unnecessary Rows & Columns
 
-## 📊 Key Analysis Performed
+## Key Analysis Performed
 ###
 - Distribution of Movies vs TV Shows
 - Trends over Release Years
@@ -32,7 +32,7 @@ Dataset Source: Kaggle
 - Duration analysis
 - Genre and Category insights
 
-## 🚀 Insights Highlights
+## Insights Highlights
 ###
 - Netflix content is dominated by Movies compared to TV Shows
 - Strong concentration of content in recent years
@@ -40,7 +40,7 @@ Dataset Source: Kaggle
 - Regional availability varies widely
 - Ratings indicate content suitability trends
 
-### 📚 Learning Outcomes
+### Learning Outcomes
 ######
 This project helped me deepen my understanding of:
 - Power BI advanced transformations
