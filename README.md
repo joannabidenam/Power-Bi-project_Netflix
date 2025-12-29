@@ -40,25 +40,25 @@ Dataset Source: Kaggle
 
 ### 📊 Key Analysis Performed
 ######
-✨Distribution of Movies vs TV Shows
-✨Trends over Release Years
-✨Content availability by Country
-✨Rating distribution
-✨Duration analysis
-✨Genre and Category insights
+- Distribution of Movies vs TV Shows
+- Trends over Release Years
+- Content availability by Country
+- Rating distribution
+- Duration analysis
+- Genre and Category insights
 
 ### 🚀 Insights Highlights
 ######
-✨ Netflix content is dominated by Movies compared to TV Shows
-✨ Strong concentration of content in recent years
-✨ Certain genres significantly outperform others
-✨ Regional availability varies widely
-✨ Ratings indicate content suitability trends
+- Netflix content is dominated by Movies compared to TV Shows
+- Strong concentration of content in recent years
+- Certain genres significantly outperform others
+- Regional availability varies widely
+- Ratings indicate content suitability trends
 
 ### 📚 Learning Outcomes
 ######
 This project helped me deepen my understanding of:
-✨ Power BI advanced transformations
-✨ Effective dashboard storytelling
-✨ Data modeling best practices
-✨ Practical Exploratory Data Analysis
+- Power BI advanced transformations
+- Effective dashboard storytelling
+- Data modeling best practices
+- Practical Exploratory Data Analysis
